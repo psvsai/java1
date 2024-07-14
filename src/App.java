@@ -8,5 +8,9 @@ public class App{
         Car car2 = new Car();
         car2.run();
         car2.Horn();
+
+        Car car3 = new Car();
+        car3.Horn();
+        car3.flash();
     }
 }

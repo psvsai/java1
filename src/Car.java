@@ -7,4 +7,8 @@ public class Car {
     public void run(){
     System.out.println("run");
     }
+    
+    public void flash(){
+        System.out.println("flash");
+    }
 }
